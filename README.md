@@ -4,4 +4,4 @@
 You can fork this repository and use it as a private repository with FlashDrive's auto build function or use it as a public repository.
 
 # Qoddi App platform
-Visit [Qoddi] (https://qoddi.com) for more informations
+Visit [Qoddi](https://qoddi.com) for more informations
